@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Wow",
+  "base_artist": "林 和希",
+  "createdAt": "2025-12-12T15:42:57.209712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ima Read (J-Wow remix)",
+      "artist": "Zebra Katz feat. Njena Reddd Foxxx",
+      "has_synced": false,
+      "path": "select/01_Ima_Read_(J-Wow_remix)_Zebra_Katz_feat._Njena_Reddd_Foxxx.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wow",
+      "artist": "Young Fathers",
+      "has_synced": false,
+      "path": "select/02_Wow_Young_Fathers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oida wow",
+      "artist": "LGoony feat. Crack Ignaz",
+      "has_synced": false,
+      "path": "select/03_Oida_wow_LGoony_feat._Crack_Ignaz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oida wow (prod. Dj Heroin)",
+      "artist": "LGoony & Crack Ignaz",
+      "has_synced": false,
+      "path": "select/04_Oida_wow_(prod._Dj_Heroin)_LGoony_&_Crack_Ignaz.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pow Wow",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/05_Pow_Wow_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wow (with Emma Lanford)",
+      "artist": "Mousse T.",
+      "has_synced": true,
+      "path": "select/06_Wow_(with_Emma_Lanford)_Mousse_T..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wow",
+      "artist": "Mousse T",
+      "has_synced": true,
+      "path": "select/07_Wow_Mousse_T.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wow Now",
+      "artist": "Naive New Beaters",
+      "has_synced": false,
+      "path": "select/08_Wow_Now_Naive_New_Beaters.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Miss You Bow Wow",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/09_Miss_You_Bow_Wow_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Miss You Bow Wow",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/10_Miss_You_Bow_Wow_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bow Wow Wow Wow",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/11_Bow_Wow_Wow_Wow_Was_(Not_Was).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything Goes (Wow)",
+      "artist": "Broods",
+      "has_synced": true,
+      "path": "select/12_Everything_Goes_(Wow)_Broods.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Salmon Dance - Crookers 'Wow' Mix",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/13_The_Salmon_Dance_-_Crookers_'Wow'_Mix_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "WOW",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/14_WOW_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wow",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/15_Wow_Beck.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wow And Flutter",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/16_Wow_And_Flutter_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Salmon Dance (Crookers 'Wow' Mix)",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/17_The_Salmon_Dance_(Crookers_'Wow'_Mix)_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bow Wow",
+      "artist": "The Fiery Furnaces",
+      "has_synced": true,
+      "path": "select/18_Bow_Wow_The_Fiery_Furnaces.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wow",
+      "artist": "林和希",
+      "has_synced": false,
+      "path": "select/pl_01_Wow_林和希.txt"
+    }
+  ]
+}
